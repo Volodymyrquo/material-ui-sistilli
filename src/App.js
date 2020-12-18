@@ -1,9 +1,10 @@
+import { Button } from '@material-ui/core';
 import React from 'react';
 
 const App = () => {
   return (
     <div>
-      <h1>Hello form App component</h1>
+      <Button>This is our first button</Button>
     </div>
   );
 };
